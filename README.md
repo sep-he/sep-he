@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sep-he
-- 👀 I’m interested in Data Science, Evolutionary Bio/ Genome Evoltion, Percision Med, Sustainability
-- 🌱 I’m currently learning Data Analysis, Machine Learning, Web Designe, SQL
+- 👋 Hi, I’m Sep
+- 👀 I’m interested in Data Science, Evolutionary Bio/ Genome Evoltion, Percision Med, bioinformatics
+- 🌱 I’m currently learning Data Analysis, Machine Learning, BioPython, SQL
 
 - 📫 How to reach me sepehrhe@student.ubc.ca
 
